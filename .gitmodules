@@ -1,3 +1,4 @@
 [submodule "rails-app"]
 	path = rails-app
 	url = https://github.com/dnwilson/point-of-sale-rails
+	branch = main
